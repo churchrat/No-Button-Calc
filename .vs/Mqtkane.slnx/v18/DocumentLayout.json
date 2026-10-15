@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Mihail Krustev 12a\\Mqtkane\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CBB8100B-5089-41FE-BA39-861EE319B213}|CalculatorBezButoni\\CalculatorBezButoni.csproj|c:\\mihail krustev 12a\\mqtkane\\calculatorbezbutoni\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CBB8100B-5089-41FE-BA39-861EE319B213}|CalculatorBezButoni\\CalculatorBezButoni.csproj|solutionrelative:calculatorbezbutoni\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBB8100B-5089-41FE-BA39-861EE319B213}|CalculatorBezButoni\\CalculatorBezButoni.csproj|c:\\mihail krustev 12a\\mqtkane\\calculatorbezbutoni\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBB8100B-5089-41FE-BA39-861EE319B213}|CalculatorBezButoni\\CalculatorBezButoni.csproj|solutionrelative:calculatorbezbutoni\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Mihail Krustev 12a\\Mqtkane\\CalculatorBezButoni\\Form1.cs",
+              "RelativeDocumentMoniker": "CalculatorBezButoni\\Form1.cs",
+              "ToolTip": "C:\\Mihail Krustev 12a\\Mqtkane\\CalculatorBezButoni\\Form1.cs [Design]",
+              "RelativeToolTip": "CalculatorBezButoni\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-15T06:32:12.345Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Mihail Krustev 12a\\Mqtkane\\CalculatorBezButoni\\Form1.cs",
+              "RelativeDocumentMoniker": "CalculatorBezButoni\\Form1.cs",
+              "ToolTip": "C:\\Mihail Krustev 12a\\Mqtkane\\CalculatorBezButoni\\Form1.cs",
+              "RelativeToolTip": "CalculatorBezButoni\\Form1.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAAwDIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-15T06:22:48.104Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
